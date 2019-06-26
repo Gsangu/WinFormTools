@@ -1,0 +1,11 @@
+c:\users\gsan\documents\visual studio 2015\Projects\网易云音乐歌单歌曲下载\网易云音乐歌单歌曲下载\bin\Debug\网易云音乐歌单歌曲下载.exe.config
+c:\users\gsan\documents\visual studio 2015\Projects\网易云音乐歌单歌曲下载\网易云音乐歌单歌曲下载\bin\Debug\网易云音乐歌单歌曲下载.exe
+c:\users\gsan\documents\visual studio 2015\Projects\网易云音乐歌单歌曲下载\网易云音乐歌单歌曲下载\bin\Debug\网易云音乐歌单歌曲下载.pdb
+c:\users\gsan\documents\visual studio 2015\Projects\网易云音乐歌单歌曲下载\网易云音乐歌单歌曲下载\bin\Debug\CSkin.dll
+c:\users\gsan\documents\visual studio 2015\Projects\网易云音乐歌单歌曲下载\网易云音乐歌单歌曲下载\bin\Debug\CSkin.xml
+c:\users\gsan\documents\visual studio 2015\Projects\网易云音乐歌单歌曲下载\网易云音乐歌单歌曲下载\obj\Debug\网易云音乐歌单歌曲下载.csprojResolveAssemblyReference.cache
+c:\users\gsan\documents\visual studio 2015\Projects\网易云音乐歌单歌曲下载\网易云音乐歌单歌曲下载\obj\Debug\网易云音乐歌单歌曲下载.Form1.resources
+c:\users\gsan\documents\visual studio 2015\Projects\网易云音乐歌单歌曲下载\网易云音乐歌单歌曲下载\obj\Debug\网易云音乐歌单歌曲下载.Properties.Resources.resources
+c:\users\gsan\documents\visual studio 2015\Projects\网易云音乐歌单歌曲下载\网易云音乐歌单歌曲下载\obj\Debug\网易云音乐歌单歌曲下载.csproj.GenerateResource.Cache
+c:\users\gsan\documents\visual studio 2015\Projects\网易云音乐歌单歌曲下载\网易云音乐歌单歌曲下载\obj\Debug\网易云音乐歌单歌曲下载.exe
+c:\users\gsan\documents\visual studio 2015\Projects\网易云音乐歌单歌曲下载\网易云音乐歌单歌曲下载\obj\Debug\网易云音乐歌单歌曲下载.pdb

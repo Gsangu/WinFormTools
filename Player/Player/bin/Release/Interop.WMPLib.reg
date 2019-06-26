@@ -1,0 +1,91 @@
+REGEDIT4
+
+[HKEY_CLASSES_ROOT\Record\{06ACACF4-5FF8-3AC5-AA8C-F1C8A4D0ACB1}\1.0.0.0]
+"Class"="WMPLib.WMPPlaylistChangeEventType"
+"Assembly"="Interop.WMPLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///C:/Users/gozhu_000/Documents/Visual Studio 2013/Projects/Player/Player/bin/Release/Interop.WMPLib.dll"
+
+[HKEY_CLASSES_ROOT\Record\{BF4E70B6-2B2E-3728-8461-93B4B9D9FFB7}\1.0.0.0]
+"Class"="WMPLib.WMPDeviceStatus"
+"Assembly"="Interop.WMPLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///C:/Users/gozhu_000/Documents/Visual Studio 2013/Projects/Player/Player/bin/Release/Interop.WMPLib.dll"
+
+[HKEY_CLASSES_ROOT\Record\{A80D5888-4541-3014-8F03-3F493F95ECAB}\1.0.0.0]
+"Class"="WMPLib.WMPSyncState"
+"Assembly"="Interop.WMPLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///C:/Users/gozhu_000/Documents/Visual Studio 2013/Projects/Player/Player/bin/Release/Interop.WMPLib.dll"
+
+[HKEY_CLASSES_ROOT\Record\{D3C00DF4-2111-33CB-B862-BC477D92043C}\1.0.0.0]
+"Class"="WMPLib.WMPRipState"
+"Assembly"="Interop.WMPLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///C:/Users/gozhu_000/Documents/Visual Studio 2013/Projects/Player/Player/bin/Release/Interop.WMPLib.dll"
+
+[HKEY_CLASSES_ROOT\Record\{DADF2601-6C2B-32E9-AB7A-C28EDDFCC4EB}\1.0.0.0]
+"Class"="WMPLib.WMPBurnFormat"
+"Assembly"="Interop.WMPLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///C:/Users/gozhu_000/Documents/Visual Studio 2013/Projects/Player/Player/bin/Release/Interop.WMPLib.dll"
+
+[HKEY_CLASSES_ROOT\Record\{0FB4B1B4-BCA8-3131-9160-9584DA79A89D}\1.0.0.0]
+"Class"="WMPLib.WMPBurnState"
+"Assembly"="Interop.WMPLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///C:/Users/gozhu_000/Documents/Visual Studio 2013/Projects/Player/Player/bin/Release/Interop.WMPLib.dll"
+
+[HKEY_CLASSES_ROOT\Record\{1C810C6E-2449-38B5-93D8-45EA10D2F16E}\1.0.0.0]
+"Class"="WMPLib.WMPLibraryType"
+"Assembly"="Interop.WMPLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///C:/Users/gozhu_000/Documents/Visual Studio 2013/Projects/Player/Player/bin/Release/Interop.WMPLib.dll"
+
+[HKEY_CLASSES_ROOT\Record\{CEF97DBB-1713-3AA1-9BA2-234F7A896C2F}\1.0.0.0]
+"Class"="WMPLib.WMPFolderScanState"
+"Assembly"="Interop.WMPLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///C:/Users/gozhu_000/Documents/Visual Studio 2013/Projects/Player/Player/bin/Release/Interop.WMPLib.dll"
+
+[HKEY_CLASSES_ROOT\Record\{5D82DD24-35ED-393C-805A-A2B8CF139AD1}\1.0.0.0]
+"Class"="WMPLib.WMPStringCollectionChangeEventType"
+"Assembly"="Interop.WMPLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///C:/Users/gozhu_000/Documents/Visual Studio 2013/Projects/Player/Player/bin/Release/Interop.WMPLib.dll"
+
+[HKEY_CLASSES_ROOT\CLSID\{6BF52A52-394A-11D3-B153-00C04F79FAA6}\InprocServer32]
+"Class"="WMPLib.WindowsMediaPlayerClass"
+"Assembly"="Interop.WMPLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///C:/Users/gozhu_000/Documents/Visual Studio 2013/Projects/Player/Player/bin/Release/Interop.WMPLib.dll"
+
+[HKEY_CLASSES_ROOT\CLSID\{6BF52A52-394A-11D3-B153-00C04F79FAA6}\InprocServer32\1.0.0.0]
+"Class"="WMPLib.WindowsMediaPlayerClass"
+"Assembly"="Interop.WMPLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///C:/Users/gozhu_000/Documents/Visual Studio 2013/Projects/Player/Player/bin/Release/Interop.WMPLib.dll"
+
+[HKEY_CLASSES_ROOT\Record\{E94CC798-5891-38DB-BAF8-96653505DA9F}\1.0.0.0]
+"Class"="WMPLib.WMPOpenState"
+"Assembly"="Interop.WMPLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///C:/Users/gozhu_000/Documents/Visual Studio 2013/Projects/Player/Player/bin/Release/Interop.WMPLib.dll"
+
+[HKEY_CLASSES_ROOT\Record\{093E946E-9E5A-360B-96AC-71E967D4E6E9}\1.0.0.0]
+"Class"="WMPLib.WMPPlayState"
+"Assembly"="Interop.WMPLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///C:/Users/gozhu_000/Documents/Visual Studio 2013/Projects/Player/Player/bin/Release/Interop.WMPLib.dll"
+
+[HKEY_CLASSES_ROOT\Record\{007124AE-1762-3125-839C-4A61F0CA1B2D}\1.0.0.0]
+"Class"="WMPLib.WMPSubscriptionDownloadState"
+"Assembly"="Interop.WMPLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///C:/Users/gozhu_000/Documents/Visual Studio 2013/Projects/Player/Player/bin/Release/Interop.WMPLib.dll"
+
+[HKEY_CLASSES_ROOT\Record\{5F383118-589D-370E-8521-EFB1E5955527}\1.0.0.0]
+"Class"="WMPLib.WMP_WRITENAMESEX_TYPE"
+"Assembly"="Interop.WMPLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///C:/Users/gozhu_000/Documents/Visual Studio 2013/Projects/Player/Player/bin/Release/Interop.WMPLib.dll"

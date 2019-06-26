@@ -1,0 +1,10 @@
+D:\我的文档\Visual Studio 2017\Project\Yandere\GetResource\obj\Debug\Yandere.csprojResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2017\Project\Yandere\GetResource\obj\Debug\GetResource.Form1.resources
+D:\我的文档\Visual Studio 2017\Project\Yandere\GetResource\obj\Debug\Yandere.Properties.Resources.resources
+D:\我的文档\Visual Studio 2017\Project\Yandere\GetResource\obj\Debug\Yandere.csproj.GenerateResource.Cache
+D:\我的文档\Visual Studio 2017\Project\Yandere\GetResource\obj\Debug\Yandere.csproj.CoreCompileInputs.cache
+D:\我的文档\Visual Studio 2017\Project\Yandere\GetResource\bin\Debug\Yandere.exe.config
+D:\我的文档\Visual Studio 2017\Project\Yandere\GetResource\bin\Debug\Yandere.exe
+D:\我的文档\Visual Studio 2017\Project\Yandere\GetResource\bin\Debug\Yandere.pdb
+D:\我的文档\Visual Studio 2017\Project\Yandere\GetResource\obj\Debug\Yandere.exe
+D:\我的文档\Visual Studio 2017\Project\Yandere\GetResource\obj\Debug\Yandere.pdb

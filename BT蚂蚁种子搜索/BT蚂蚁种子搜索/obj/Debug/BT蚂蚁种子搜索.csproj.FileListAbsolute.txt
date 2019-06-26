@@ -1,0 +1,10 @@
+c:\users\gsan\documents\visual studio 2015\Projects\BT蚂蚁种子搜索\BT蚂蚁种子搜索\bin\Debug\BT蚂蚁种子搜索.exe.config
+c:\users\gsan\documents\visual studio 2015\Projects\BT蚂蚁种子搜索\BT蚂蚁种子搜索\bin\Debug\BT蚂蚁种子搜索.exe
+c:\users\gsan\documents\visual studio 2015\Projects\BT蚂蚁种子搜索\BT蚂蚁种子搜索\bin\Debug\BT蚂蚁种子搜索.pdb
+c:\users\gsan\documents\visual studio 2015\Projects\BT蚂蚁种子搜索\BT蚂蚁种子搜索\obj\Debug\BT蚂蚁种子搜索.csprojResolveAssemblyReference.cache
+c:\users\gsan\documents\visual studio 2015\Projects\BT蚂蚁种子搜索\BT蚂蚁种子搜索\obj\Debug\BT蚂蚁种子搜索.Form1.resources
+c:\users\gsan\documents\visual studio 2015\Projects\BT蚂蚁种子搜索\BT蚂蚁种子搜索\obj\Debug\BT蚂蚁种子搜索.Properties.Resources.resources
+c:\users\gsan\documents\visual studio 2015\Projects\BT蚂蚁种子搜索\BT蚂蚁种子搜索\obj\Debug\BT蚂蚁种子搜索.csproj.GenerateResource.Cache
+c:\users\gsan\documents\visual studio 2015\Projects\BT蚂蚁种子搜索\BT蚂蚁种子搜索\obj\Debug\BT蚂蚁种子搜索.exe
+c:\users\gsan\documents\visual studio 2015\Projects\BT蚂蚁种子搜索\BT蚂蚁种子搜索\obj\Debug\BT蚂蚁种子搜索.pdb
+C:\Users\Gsan\documents\visual studio 2015\Projects\BT蚂蚁种子搜索\BT蚂蚁种子搜索\obj\Debug\BT蚂蚁种子搜索.detail.resources

@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D68419B6-EF90-4D0B-A6FF-DD8DD593A29F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GsanPlayer</RootNamespace>
+    <AssemblyName>GsanPlayer</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bass.Net, Version=2.4.11.1, Culture=neutral, PublicKeyToken=b7566c273e6ef480, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Bass.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="CSkin">
+      <HintPath>D:\我的文档\Visual Studio 2015\Projects\Bassplayer\Bassplayer\bin\Debug\CSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="LayeredSkin">
+      <HintPath>G:\C#\【更新-去除0ffice】Metro窗体DEMO-14.7.2版本\test\bin\Debug\LayeredSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DIYControl\SwitchImage.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImageHelper.cs" />
+    <Compile Include="Lyric.cs" />
+    <Compile Include="MusicList.cs" />
+    <Compile Include="Music\BassPlugin.cs" />
+    <Compile Include="Music\ID3V2.cs" />
+    <Compile Include="Music\MusicKernel.cs" />
+    <Compile Include="Music\MusicTags.cs" />
+    <Compile Include="Music\NativeMethods.cs" />
+    <Compile Include="Music\VST.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Player\MusicInfo.cs" />
+    <Compile Include="Player\GsanPlayer.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="KtvLrc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KtvLrc.designer.cs">
+      <DependentUpon>KtvLrc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="WebMusic\Baidu.cs" />
+    <Compile Include="WebMusic\Kugou.cs" />
+    <Compile Include="WebMusic\Netease.cs" />
+    <Compile Include="WebMusic\NeteaseClass\Banner.cs" />
+    <Compile Include="XMLHelper.cs" />
+    <EmbeddedResource Include="DIYControl\SwitchImage.resx">
+      <DependentUpon>SwitchImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KtvLrc.resx">
+      <DependentUpon>KtvLrc.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_close_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_close_highlight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnPlay.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnPlay_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnNext.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnNext_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnPre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnPre_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnPause.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ptnPause_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\02599[80x16x8BPP].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\02598[80x16x8BPP].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgSound.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\changeTurn_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnSound.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnSound_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\changeTurn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnLyric.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnLyric_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgSearch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnSearch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnSearch_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnList.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnList_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\44873217_p0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\00141[68x68x8BPP].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kugou.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\baidu.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

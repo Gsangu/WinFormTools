@@ -1,0 +1,10 @@
+D:\我的文档\Visual Studio 2017\Project\GetResource\GetResource\bin\Release\GetResource.exe.config
+D:\我的文档\Visual Studio 2017\Project\GetResource\GetResource\bin\Release\GetResource.exe
+D:\我的文档\Visual Studio 2017\Project\GetResource\GetResource\bin\Release\GetResource.pdb
+D:\我的文档\Visual Studio 2017\Project\GetResource\GetResource\obj\Release\GetResource.Form1.resources
+D:\我的文档\Visual Studio 2017\Project\GetResource\GetResource\obj\Release\GetResource.Properties.Resources.resources
+D:\我的文档\Visual Studio 2017\Project\GetResource\GetResource\obj\Release\GetResource.csproj.GenerateResource.Cache
+D:\我的文档\Visual Studio 2017\Project\GetResource\GetResource\obj\Release\GetResource.csproj.CoreCompileInputs.cache
+D:\我的文档\Visual Studio 2017\Project\GetResource\GetResource\obj\Release\GetResource.exe
+D:\我的文档\Visual Studio 2017\Project\GetResource\GetResource\obj\Release\GetResource.pdb
+D:\我的文档\Visual Studio 2017\Project\GetResource\GetResource\obj\Release\GetResource.csprojResolveAssemblyReference.cache

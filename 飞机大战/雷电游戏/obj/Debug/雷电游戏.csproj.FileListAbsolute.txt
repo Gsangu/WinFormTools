@@ -1,0 +1,9 @@
+c:\users\gsan\documents\visual studio 2015\Projects\飞机大战\雷电游戏\bin\Debug\雷电游戏.exe.config
+c:\users\gsan\documents\visual studio 2015\Projects\飞机大战\雷电游戏\obj\Debug\雷电游戏.csprojResolveAssemblyReference.cache
+c:\users\gsan\documents\visual studio 2015\Projects\飞机大战\雷电游戏\obj\Debug\雷电游戏.Form1.resources
+c:\users\gsan\documents\visual studio 2015\Projects\飞机大战\雷电游戏\obj\Debug\雷电游戏.Properties.Resources.resources
+c:\users\gsan\documents\visual studio 2015\Projects\飞机大战\雷电游戏\obj\Debug\雷电游戏.csproj.GenerateResource.Cache
+c:\users\gsan\documents\visual studio 2015\Projects\飞机大战\雷电游戏\bin\Debug\雷电游戏.exe
+c:\users\gsan\documents\visual studio 2015\Projects\飞机大战\雷电游戏\bin\Debug\雷电游戏.pdb
+c:\users\gsan\documents\visual studio 2015\Projects\飞机大战\雷电游戏\obj\Debug\雷电游戏.exe
+c:\users\gsan\documents\visual studio 2015\Projects\飞机大战\雷电游戏\obj\Debug\雷电游戏.pdb
